@@ -8,7 +8,7 @@
  
  Use these commands to run in Docker (After docker Desktop installed)
  
- 1. Docker build --tag python-docker-image
+ 1. Docker build --tag python-docker-image .
  
  2. Docker images  (check to see all images)
  
