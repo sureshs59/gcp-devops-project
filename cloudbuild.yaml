@@ -4,7 +4,3 @@ steps:
 
 images:
   - 'gcr.io/$PROJECT_ID/gcpdevops'
-
-options:
-  defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET
-  logging: CLOUD_LOGGING_ONLY
