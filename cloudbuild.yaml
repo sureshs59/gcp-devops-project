@@ -8,4 +8,5 @@ images:
 options:
   defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET
   logging: CLOUD_LOGGING_ONLY
-  logsBucket: 'gs://your-custom-bucket-name'
+  machineType: 'E2_HIGHCPU_8'
+  diskSizeGb: 100
