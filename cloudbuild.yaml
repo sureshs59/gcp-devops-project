@@ -12,7 +12,7 @@ steps:
     - --filename=gke.yaml
     - --image=gcr.io/$PROJECT_ID/gcpdevops
     - --location=us-central1
-    - --cluster=gke-gcp-devops
+    - --cluster=gcp-devops-project
     - --namespace=gcp-devops-prod
 
 # images:
